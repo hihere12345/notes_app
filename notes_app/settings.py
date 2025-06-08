@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-hpw)7odkbu)an*ya$)jh&b4grc8#7vfni!lv4(h5pdz)9poy8h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['notes-web-xqs0.onrender.com']
+ALLOWED_HOSTS = ['notes-web-xqs0.onrender.com', 'notes-app-m8l9.onrender.com']
 
 CORS_ALLOWED_ORIGINS = [
     "https://notes-web-xqs0.onrender.com/"
